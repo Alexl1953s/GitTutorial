@@ -1,0 +1,7 @@
+.idea
+*.txt
+logs
+
+#ignore ignoring ;)
+!logs/file1.txt
+*.properties
